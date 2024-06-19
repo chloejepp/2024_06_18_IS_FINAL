@@ -1,0 +1,77 @@
+header.masthead .site-heading{
+    color:whitesmoke;
+}
+
+body{
+    color:darkcyan;
+    background-color:antiquewhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    padding: 10px;
+    border: 5px solid black;
+    margin: 20 px
+
+
+}
+
+h1{
+    text-align:center;
+    text-decoration:underline;
+}
+h1, h2, h3, {
+    color:cornflowerblue;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid black;
+    padding:10px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+#topid{
+    color:black;
+}
+
+.whitebackgroundbox{
+    background-color:aliceblue;
+}
+
+.backgroundimage{
+    background-image:url("assets/img/halfdome.jpg");
+}
+
+.container{
+    position:relative;
+    padding:2px;
+    border-color:black;
+    border-style:solid;
+    box-sizing:border-box;
+
+}
+.header{background-color:azure;
+
+}
+.leftmenu{background-color:azure;
+ 
+    float:left;
+    width:22%
+}
+.mainbody{background-color:azure;
+
+    float:left;
+    width: 50%
+}
+.rightmenu{background-color:azure;
+   
+    float:left;
+    width: 22%
+}
+.footer{
+    background-color:azure;
+
+margin-top: 95px;
+margin-bottom: 0px;
+
+}
